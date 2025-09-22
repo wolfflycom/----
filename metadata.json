@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Product Replacement",
+  "description": "An application that uses AI to replace a product in a scene image with a product from another image, seamlessly blending it while maintaining the original's perspective, lighting, and style.",
+  "requestFramePermissions": []
+}
